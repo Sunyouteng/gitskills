@@ -1,2 +1,2 @@
-# gitskills
-nothing at all
+Git is a version control system.
+Git is free software
